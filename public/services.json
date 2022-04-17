@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name": "Wedding Photography",
+        "price": "700",
+        "description": "In this service I'll cover your wedding day photo shoot.Your day will memorable so don't hesitate to take the service. ",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAmrTuN99EUmLbtXyDYWfCUrSvuEi0vBbbhSdqXY-ofBV0DneDu3xAi3NR7DdTviPEH6o&usqp=CAU"
+    },
+    {
+        "id": 2,
+        "name": "Product Photography",
+        "price": "1000",
+        "description": "If you have a business and want to represent your product then here is the right place.I will shoot attractive photos of your product like food,cloths,gadgets etc.",
+        "img": "https://5.imimg.com/data5/XD/RC/BK/SELLER-46768153/65971588-jpg-500x500.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Tour Photography",
+        "price": "1500",
+        "description": "Tour is a refreshment of our life.But if you want to make your tour memorable then you need some good happy moments photos of your tour. Here is the right place for it. ",
+        "img": "https://media.istockphoto.com/photos/weve-made-it-all-this-way-i-am-proud-picture-id904172104?b=1&k=20&m=904172104&s=170667a&w=0&h=cpH1h5ENopSwP2hB-zlAxeg3Gry9KkcBReSsBV1zyzQ="
+    }
+]
