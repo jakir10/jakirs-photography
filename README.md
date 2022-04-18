@@ -1,4 +1,28 @@
-# Getting Started with Create React App
+# Jakir's Photography
+
+## Live Site
+[Jakir's Photography]()
+
+### website fuctionality
+*Sign in with verification
+*Signup with email varification
+*Password reset with toast massage
+*Protected rout
+*About page and Blog
+
+### List of Technology & library 
+*React js
+*React Bootstrap
+*Bootstrap
+*React Router
+*Firebase
+
+
+
+
+
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
