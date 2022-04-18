@@ -22,7 +22,7 @@ const reviews = [
 
 const Reviews = () => {
     return (
-        <div id='reviewsClient' className='container'>
+        <div id='reviewsClient' className='container mt-5'>
             <h2 className='text-center'>Client Reviews</h2>
             <div className="row text-center">
                 {
