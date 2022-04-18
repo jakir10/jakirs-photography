@@ -4,11 +4,11 @@ import { Link, useParams } from 'react-router-dom';
 const ServiceDetail = () => {
     const { serviceId } = useParams();
     return (
-        <div>
+        <div className='mt-5 py-5'>
             <h2>Welcome to detail: {serviceId}</h2>
             <div className='text-center'>
                 <Link to="/checkout">
-                    <button className='btn btn-secondary'>Proceed Checkout</button>
+                    <button className='btn btn-secondary mt-5'>Proceed Checkout</button>
                 </Link>
             </div>
         </div>
