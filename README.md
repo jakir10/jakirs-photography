@@ -4,18 +4,18 @@
 [Jakir's Photography]()
 
 ### website fuctionality
-*Sign in with verification
-*Signup with email varification
-*Password reset with toast massage
-*Protected rout
-*About page and Blog
+* Sign in with verification
+* Signup with email varification
+* Password reset with toast massage
+* Protected rout
+* About page and Blog
 
 ### List of Technology & library 
-*React js
-*React Bootstrap
-*Bootstrap
-*React Router
-*Firebase
+* React js
+* React Bootstrap
+* Bootstrap
+* React Router
+* Firebase
 
 
 
